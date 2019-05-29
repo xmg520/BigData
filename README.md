@@ -9,7 +9,7 @@
 - [漫谈数据开发工程师的技术广度](https://juejin.im/post/5ad85238f265da5033333e63)
 - [这两年在大数据行业中的工作总结](http://blog.jobbole.com/114185/)
 - [三个月成为大数据工程师，你需要具备什么条件？](https://www.cnblogs.com/luminji/p/7824831.html)
-- 
+- [技术好文 | 携程技术专家：从事大数据，你需要掌握这些技能！](https://www.nowcoder.com/discuss/28449)
 
 # 大数据就业方向
 
