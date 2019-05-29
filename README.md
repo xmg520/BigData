@@ -2,7 +2,14 @@
 
 > 首先，进入大数据行业首先第一步，先搞清楚大数据有哪些就业方向，然后每个方向需要学什么？
 
-
+# 参考博客
+- ["大数据工程师"和"java后台开发"的技术要求有什么区别？](http://blog.itpub.net/69903766/viewspace-2286635/)
+- [当我说要做大数据工程师时他们都笑我，直到三个月后……](https://blog.csdn.net/GitChat/article/details/78341484)
+- [你们是不是很缺大数据工程师？](https://www.jianshu.com/p/b61a3a13c64b)
+- [漫谈数据开发工程师的技术广度](https://juejin.im/post/5ad85238f265da5033333e63)
+- [这两年在大数据行业中的工作总结](http://blog.jobbole.com/114185/)
+- [三个月成为大数据工程师，你需要具备什么条件？](https://www.cnblogs.com/luminji/p/7824831.html)
+- 
 
 # 大数据就业方向
 
