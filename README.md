@@ -11,7 +11,6 @@
 - [三个月成为大数据工程师，你需要具备什么条件？](https://www.cnblogs.com/luminji/p/7824831.html)
 - [技术好文 | 携程技术专家：从事大数据，你需要掌握这些技能！](https://www.nowcoder.com/discuss/28449)
 - [数据中台已成下一风口，它会颠覆数据工程师的工作吗？](https://www.infoq.cn/article/4PXxXJ*ZOmPVlAtB2Ttb)
-- [为什么很多Java程序员都转行做大数据了？](https://www.wandouip.com/t5i9646/)
 - [接地气，到底什么才是大数据开发工程师？](https://www.itcodemonkey.com/article/10304.html)
 - [开发入门，学Java还是学大数据？](http://copyfuture.com/blogs-details/b70b195d88d78263335d2599ff9e379e)
 
