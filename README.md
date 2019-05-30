@@ -13,6 +13,7 @@
 - [数据中台已成下一风口，它会颠覆数据工程师的工作吗？](https://www.infoq.cn/article/4PXxXJ*ZOmPVlAtB2Ttb)
 - [接地气，到底什么才是大数据开发工程师？](https://www.itcodemonkey.com/article/10304.html)
 - [开发入门，学Java还是学大数据？](http://copyfuture.com/blogs-details/b70b195d88d78263335d2599ff9e379e)
+- [什么是大数据开发？大数据开发要学什么？一个Java转行过程和经历](https://blog.csdn.net/qq_39658251/article/details/84845159)
 
 
 
