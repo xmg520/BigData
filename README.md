@@ -14,7 +14,7 @@
 - [接地气，到底什么才是大数据开发工程师？](https://www.itcodemonkey.com/article/10304.html)
 - [开发入门，学Java还是学大数据？](http://copyfuture.com/blogs-details/b70b195d88d78263335d2599ff9e379e)
 - [什么是大数据开发？大数据开发要学什么？一个Java转行过程和经历](https://blog.csdn.net/qq_39658251/article/details/84845159)
-
+- [零基础学习大数据的路线和方向](https://yq.aliyun.com/articles/703633?spm=a2c4e.11157919.spm-cont-list.105.7aef27aewQvH1W#)
 
 
 # 大数据就业方向
